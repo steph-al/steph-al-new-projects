@@ -5,7 +5,7 @@
 // See your keys here: https://dashboard.stripe.com/account/apikeys
 var stripe = Stripe('pk_test_TYooMQauvdEDq54NiTphI7jx');
 var stripe = Stripe('rk_test_Zu9Vz12eIYFNdGoFKe8aYiQn00gcclUvS0')
-var stripe = Stripe('sk_test_MfRuaFA9sgl5e1AUYzjwiNNt00UG6t6fvY')
+var stripe = Stripe('sk_test_MfRuaFA9sgl5b5AUYzjwiNNt00UG6t6fvY')
 var stripe = Stripe('sk_test_PfRuaFA9sgl5e1MEYzjwiPNt00UG6t6fvA')
 var elements = stripe.elements();
   var elements = stripe.elements({
